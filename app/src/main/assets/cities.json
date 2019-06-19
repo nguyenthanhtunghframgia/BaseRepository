@@ -1,0 +1,443 @@
+[
+  {
+    "_id": {
+      "name": "Hà Nội",
+      "code": "hanoi"
+    },
+    "total": 1
+  },
+  {
+    "_id": {
+      "name": "Hồ Chí Minh",
+      "code": "hcm"
+    },
+    "total": 2
+  },
+  {
+    "_id": {
+      "name": "An Giang",
+      "code": "angiang"
+    },
+    "total": 3
+  },
+  {
+    "_id": {
+      "name": "Bà Rịa – Vũng Tàu",
+      "code": "vungtau"
+    },
+    "total": 4
+  },
+  {
+    "_id": {
+      "name": "Bạc Liêu",
+      "code": "baclieu"
+    },
+    "total": 5
+  },
+  {
+    "_id": {
+      "name": "Bắc Kạn",
+      "code": "backan"
+    },
+    "total": 6
+  },
+  {
+    "_id": {
+      "name": "Bắc Giang",
+      "code": "bacgiang"
+    },
+    "total": 7
+  },
+  {
+    "_id": {
+      "name": "Bắc Ninh",
+      "code": "bacninh"
+    },
+    "total": 8
+  },
+  {
+    "_id": {
+      "name": "Bến Tre",
+      "code": "bentre"
+    },
+    "total": 9
+  },
+  {
+    "_id": {
+      "name": "Bình Dương",
+      "code": "binhduong"
+    },
+    "total": 10
+  },
+  {
+    "_id": {
+      "name": "Bình Định",
+      "code": "binhdinh"
+    },
+    "total": 11
+  },
+  {
+    "_id": {
+      "name": "Bình Phước",
+      "code": "binhphuoc"
+    },
+    "total": 12
+  },
+  {
+    "_id": {
+      "name": "Bình Thuận",
+      "code": "binhthuan"
+    },
+    "total": 13
+  },
+  {
+    "_id": {
+      "name": "Cà Mau",
+      "code": "camau"
+    },
+    "total": 14
+  },
+  {
+    "_id": {
+      "name": "Cao Bằng",
+      "code": "caobang"
+    },
+    "total": 15
+  },
+  {
+    "_id": {
+      "name": "Cần Thơ",
+      "code": "cantho"
+    },
+    "total": 16
+  },
+  {
+    "_id": {
+      "name": "Đà Nẵng",
+      "code": "danang"
+    },
+    "total": 17
+  },
+  {
+    "_id": {
+      "name": "Đắk Lắk",
+      "code": "daklak"
+    },
+    "total": 18
+  },
+  {
+    "_id": {
+      "name": "Đắk Nông",
+      "code": "daknong"
+    },
+    "total": 19
+  },
+  {
+    "_id": {
+      "name": "Điện Biên",
+      "code": "dienbien"
+    },
+    "total": 20
+  },
+  {
+    "_id": {
+      "name": "Đồng Nai",
+      "code": "dongnai"
+    },
+    "total": 21
+  },
+  {
+    "_id": {
+      "name": "Đồng Tháp",
+      "code": "dongthap"
+    },
+    "total": 22
+  },
+  {
+    "_id": {
+      "name": "Gia Lai",
+      "code": "gialai"
+    },
+    "total": 23
+  },
+  {
+    "_id": {
+      "name": "Hà Giang",
+      "code": "hagiang"
+    },
+    "total": 24
+  },
+  {
+    "_id": {
+      "name": "Hà Nam",
+      "code": "hanam"
+    },
+    "total": 25
+  },
+  {
+    "_id": {
+      "name": "Hà Tĩnh",
+      "code": "hatinh"
+    },
+    "total": 26
+  },
+  {
+    "_id": {
+      "name": "Hải Dương",
+      "code": "haiduong"
+    },
+    "total": 27
+  },
+  {
+    "_id": {
+      "name": "Hải Phòng",
+      "code": "haiphong"
+    },
+    "total": 28
+  },
+  {
+    "_id": {
+      "name": "Hòa Bình",
+      "code": "hoabinh"
+    },
+    "total": 29
+  },
+  {
+    "_id": {
+      "name": "Hậu Giang",
+      "code": "haugiang"
+    },
+    "total": 30
+  },
+  {
+    "_id": {
+      "name": "Hưng Yên",
+      "code": "hungyen"
+    },
+    "total": 31
+  },
+  {
+    "_id": {
+      "name": "Khánh Hòa",
+      "code": "khanhhoa"
+    },
+    "total": 32
+  },
+  {
+    "_id": {
+      "name": "Kiên Giang",
+      "code": "kiengiang"
+    },
+    "total": 33
+  },
+  {
+    "_id": {
+      "name": "Kon Tum",
+      "code": "komtum"
+    },
+    "total": 34
+  },
+  {
+    "_id": {
+      "name": "Lai Châu",
+      "code": "laichau"
+    },
+    "total": 35
+  },
+  {
+    "_id": {
+      "name": "Lào Cai",
+      "code": "laocai"
+    },
+    "total": 36
+  },
+  {
+    "_id": {
+      "name": "Lạng Sơn",
+      "code": "langson"
+    },
+    "total": 37
+  },
+  {
+    "_id": {
+      "name": "Lâm Đồng",
+      "code": "lamdong"
+    },
+    "total": 38
+  },
+  {
+    "_id": {
+      "name": "Long An",
+      "code": "longan"
+    },
+    "total": 39
+  },
+  {
+    "_id": {
+      "name": "Nam Định",
+      "code": "namdinh"
+    },
+    "total": 40
+  },
+  {
+    "_id": {
+      "name": "Nghệ An",
+      "code": "nghean"
+    },
+    "total": 41
+  },
+  {
+    "_id": {
+      "name": "Ninh Bình",
+      "code": "ninhbinh"
+    },
+    "total": 42
+  },
+  {
+    "_id": {
+      "name": "Ninh Thuận",
+      "code": "ninhthuan"
+    },
+    "total": 43
+  },
+  {
+    "_id": {
+      "name": "Phú Thọ",
+      "code": "phutho"
+    },
+    "total": 44
+  },
+  {
+    "_id": {
+      "name": "Phú Yên",
+      "code": "phuyen"
+    },
+    "total": 45
+  },
+  {
+    "_id": {
+      "name": "Quảng Bình",
+      "code": "quangbinh"
+    },
+    "total": 46
+  },
+  {
+    "_id": {
+      "name": "Quảng Nam",
+      "code": "quangnam"
+    },
+    "total": 47
+  },
+  {
+    "_id": {
+      "name": "Quảng Ngãi",
+      "code": "quangngai"
+    },
+    "total": 48
+  },
+  {
+    "_id": {
+      "name": "Quảng Ninh",
+      "code": "quangninh"
+    },
+    "total": 49
+  },
+  {
+    "_id": {
+      "name": "Quảng Trị",
+      "code": "quangtri"
+    },
+    "total": 50
+  },
+  {
+    "_id": {
+      "name": "Sóc Trăng",
+      "code": "soctrang"
+    },
+    "total": 51
+  },
+  {
+    "_id": {
+      "name": "Sơn La",
+      "code": "sonla"
+    },
+    "total": 52
+  },
+  {
+    "_id": {
+      "name": "Tây Ninh",
+      "code": "tayninh"
+    },
+    "total": 53
+  },
+  {
+    "_id": {
+      "name": "Thái Bình",
+      "code": "thaibinh"
+    },
+    "total": 54
+  },
+  {
+    "_id": {
+      "name": "Thái Nguyên",
+      "code": "thainguyen"
+    },
+    "total": 55
+  },
+  {
+    "_id": {
+      "name": "Thanh Hóa",
+      "code": "thanhhoa"
+    },
+    "total": 56
+  },
+  {
+    "_id": {
+      "name": "Thừa Thiên – Huế",
+      "code": "hue"
+    },
+    "total": 57
+  },
+  {
+    "_id": {
+      "name": "Tiền Giang",
+      "code": "tiengiang"
+    },
+    "total": 58
+  },
+  {
+    "_id": {
+      "name": "Trà Vinh",
+      "code": "travinh"
+    },
+    "total": 59
+  },
+  {
+    "_id": {
+      "name": "Tuyên Quang",
+      "code": "tuyenquang"
+    },
+    "total": 60
+  },
+  {
+    "_id": {
+      "name": "Vĩnh Long",
+      "code": "vinhlong"
+    },
+    "total": 61
+  },
+  {
+    "_id": {
+      "name": "Vĩnh Phúc",
+      "code": "vinhphuc"
+    },
+    "total": 62
+  },
+  {
+    "_id": {
+      "name": "Yên Bái",
+      "code": "yenbai"
+    },
+    "total": 63
+  }
+]
