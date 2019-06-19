@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">BaseRepository</string>
+    <string name="app_name">VietNam</string>
+    <string name="portrait">Doc</string>
+    <string name="landscape">Ngang</string>
 </resources>
