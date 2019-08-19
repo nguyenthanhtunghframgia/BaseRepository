@@ -2,4 +2,7 @@
     <string name="app_name">VietNam</string>
     <string name="portrait">Doc</string>
     <string name="landscape">Ngang</string>
+    <string name="download_button_title">Download</string>
+    <string name="loading">Loading…</string>
+    <string name="download_succeed">Succeed</string>
 </resources>

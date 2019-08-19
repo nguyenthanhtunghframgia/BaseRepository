@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProgressWheel">
+        <!--View size-->
+        <attr name="pwLayoutWidth" format="dimension" />
+        <attr name="pwLayoutHeight" format="dimension" />
+
+        <!--Padding-->
+        <attr name="progressWheelPaddingTop" format="dimension" />
+        <attr name="progressWheelPaddingBottom" format="dimension" />
+        <attr name="progressWheelPaddingLeft" format="dimension" />
+        <attr name="progressWheelPaddingRight" format="dimension" />
+
+        <!--Size-->
+        <attr name="textSize" format="dimension" />
+        <attr name="baseCircleWidth" format="dimension" />
+        <attr name="innerCircleWidth" format="dimension" />
+        <attr name="outtaCircleWidth" format="dimension" />
+
+        <!--Color-->
+        <attr name="textColor" format="color" />
+        <attr name="baseCircleColor" format="color" />
+        <attr name="innerCircleColor" format="color" />
+        <attr name="outtaCircleColor" format="color" />
+
+        <!--Other-->
+        <attr name="spinSpeed" format="integer" />
+        <attr name="delayTimes" format="integer" />
+    </declare-styleable>
+
+</resources>
